@@ -1,11 +1,12 @@
 # Dr. Manoj Kumar Karnena – personal website
 
-Source for **[manojkumarkarnena.github.io](https://manojkumarkarnena.github.io/)**, the academic homepage of Dr. Manoj Kumar Karnena, Assistant Professor of Water Treatment Technology at Yesbud University, Lusaka, Zambia, and an environmental scientist researching natural coagulants and sustainable water and wastewater treatment.
+Source for **[manojkumarkarnena.github.io](https://manojkumarkarnena.github.io/)**, the academic homepage of Dr. Manoj Kumar Karnena, an environmental scientist and independent researcher (formerly Assistant Professor of Water Treatment Technology at Yesbud University, Lusaka, Zambia) researching natural coagulants and sustainable water and wastewater treatment.
 
 The site is a single static page (index.html) served by GitHub Pages. It covers experience, education, honours and awards, patents, books, selected publications and researcher profiles.
 
 ## Researcher profiles
 
+- Academic website: [sites.google.com/view/dr-manoj-kumar-karnena](https://sites.google.com/view/dr-manoj-kumar-karnena)
 - ORCID: [0000-0001-9241-2990](https://orcid.org/0000-0001-9241-2990)
 - Google Scholar: [DbxTNHAAAAAJ](https://scholar.google.com/citations?user=DbxTNHAAAAAJ)
 - Scopus Author ID: [57200333294](https://www.scopus.com/authid/detail.uri?authorId=57200333294)
